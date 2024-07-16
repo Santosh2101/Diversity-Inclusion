@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/978a0cb8-ee7e-437d-a9e4-7787d9c536cc)
 
 Project Overview
+
 ✤ The task involves developing key performance indicators (KPIs) related to hiring, promotion, performance, and turnover, along with creating a visualization to track and communicate progress.
 
 ✤ Telecom client partners with PwC Switzerland to boost executive gender balance through diversity and inclusion. Addressing practical challenges, we use KPIs like gender ratios, promotions, turnover, and performance ratings. Goal: A valued and inclusive environment for all teams.
