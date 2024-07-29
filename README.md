@@ -1,9 +1,10 @@
 
 **Diversity & Inclusion**
 
-![image](https://github.com/user-attachments/assets/7a293ea4-d311-49c0-bbad-e275b9638225)
+![image](https://github.com/user-attachments/assets/d6df7952-d65a-48a4-8f6d-900a8f8574f0)
 
-![image](https://github.com/user-attachments/assets/978a0cb8-ee7e-437d-a9e4-7787d9c536cc)
+
+![image](https://github.com/user-attachments/assets/087afd80-76c9-4788-8c66-7da18c8e1f20)
 
 Project Overview
 
